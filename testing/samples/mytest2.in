@@ -1,0 +1,15 @@
+> init
+<<<
++ w.txt world.txt
+> add w.txt
+<<<
+> commit "Finished f"
+<<<
++ w.txt hello.txt
+> add w.txt
+<<<
+> commit "edited f"
+<<<
+> commit "edited f again"
+No changes added to the commit.
+<<<

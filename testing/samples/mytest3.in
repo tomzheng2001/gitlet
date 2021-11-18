@@ -1,0 +1,11 @@
+> init
+<<<
+> init
+A Gitlet version-control system already exists in the current directory
+<<<
+> checkout f.txt g.txt h.txt
+Incorrect Operands.
+<<<
+> tag f.txt
+No command with that name exists.
+<<<
