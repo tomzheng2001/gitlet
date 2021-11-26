@@ -1,0 +1,12 @@
+> init
+<<<
++ m.txt hello.txt
+> add m.txt
+<<<
++ n.txt world.txt
+> rm m.txt
+<<<
+> rm n.txt
+No reason to remove the file.
+<<<
+
